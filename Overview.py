@@ -11,7 +11,7 @@ pd.set_option('display.max_columns', None)
 from bson.objectid import ObjectId
 import plotly.graph_objects as go
 
-
+#namsslwmsklsmnwk,dlwlsmdkewmcmdkwemxds
 st.set_page_config(page_title="Multipage App",layout= 'wide')
 
 st.sidebar.title('SME INSIGHT') 
